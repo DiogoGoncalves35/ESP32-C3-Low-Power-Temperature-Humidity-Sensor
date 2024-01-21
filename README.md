@@ -7,7 +7,7 @@
 
 This board is designed arround SHT31 sensor and ESP32-C3 microcontroller. It's a low power board, arround 6 µA during deep sleep, it's super efficient during communication, makes it perfect to be powered with a Li-Ion battery. The next image shows version 2.0.
 
-<img src="/Images/Board.png">
+<img src="/Images/Board.png"> <img src="/Images/Board_Back.png">
 
 Two versions were designed, the first was a experimental board and the second the final one. The second version solved the problems found on the first and also added a circuit to control the voltage divider, this helped reduce the deep sleep current by 9 µA.
 
